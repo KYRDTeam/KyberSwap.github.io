@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>tael</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-1971.000000, -458.000000)" fill="#FF463A" fill-rule="nonzero">
+            <g id="tael" transform="translate(1971.000000, 458.000000)">
+                <path d="M14,28 C21.7319865,28 28,21.7319865 28,14 C28,6.2680135 21.7319865,0 14,0 C6.2680135,0 0,6.2680135 0,14 C0,21.7319865 6.2680135,28 14,28 Z M14,25 C7.92486775,25 3,20.0751322 3,14 C3,7.92486775 7.92486775,3 14,3 C20.0751322,3 25,7.92486775 25,14 C25,20.0751322 20.0751322,25 14,25 Z" id="Oval"></path>
+                <path d="M10.7272727,8 L17.2727273,8 C18.7789584,8 20,9.22104159 20,10.7272727 L20,17.2727273 C20,18.7789584 18.7789584,20 17.2727273,20 L10.7272727,20 C9.22104159,20 8,18.7789584 8,17.2727273 L8,10.7272727 C8,9.22104159 9.22104159,8 10.7272727,8 Z M11.4285714,16.5714286 L16.5714286,16.5714286 L16.5714286,11.4285714 L11.4285714,11.4285714 L11.4285714,16.5714286 Z" id="Rectangle" transform="translate(14.000000, 14.000000) rotate(-45.000000) translate(-14.000000, -14.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

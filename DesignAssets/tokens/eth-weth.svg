@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>eth*</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eth*">
+            <g id="coin/eth" transform="translate(0.000000, -0.000000)">
+                <circle id="Oval" stroke="#666666" fill="#FFFFFF" cx="14" cy="14" r="13.5"></circle>
+                <g id="eth-shape" transform="translate(8.000000, 4.181818)">
+                    <g id="eth">
+                        <polygon id="Shape" fill="#343434" points="5.99824104 0 5.86729642 0.446233525 5.86729642 13.3928798 5.99824104 13.5238716 11.9964821 9.97182138"></polygon>
+                        <polygon id="Shape" fill="#8C8C8C" points="5.99824104 0 0 9.97182138 5.99824104 13.5240674"></polygon>
+                        <polygon id="Shape" fill="#3C3C3B" points="5.99824104 14.6620705 5.92436482 14.7523354 5.92436482 19.3648511 5.99824104 19.5802336 12 11.1117826"></polygon>
+                        <polygon id="Shape" fill="#8C8C8C" points="5.99824104 19.5802336 5.99824104 14.6618747 0 11.1117826"></polygon>
+                        <polyline id="Shape" fill="#141414" points="5.99824104 13.5240674 11.9962866 9.97182138 5.99824104 7.24037879 5.99824104 13.5240674"></polyline>
+                        <polyline id="Shape" fill="#393939" points="0 9.97182138 5.9980456 13.5240674 5.9980456 7.24018299"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
