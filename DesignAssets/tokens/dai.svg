@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Dai_new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F9AB12" offset="0%"></stop>
+            <stop stop-color="#FAC651" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Dai_new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dai_new" transform="translate(1.000000, 1.000000)">
+            <g id="Group">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="53" cy="53" r="53"></circle>
+                <path d="M55,28 C65.6344994,28 74.7181372,34.6400275 78.3311434,44.0003123 L85,44 L85,50 L79.8219283,50.0006544 C79.9395066,50.9840349 80,51.984953 80,53 C80,54.0153914 79.9394655,55.0166441 79.8218086,56.0003463 L85,56 L85,62 L78.3307589,62.0006838 C74.7174928,71.3604436 65.6341221,78 55,78 L33.5,78 L33.5,62 L26,62 L26,56 L33.5,56 L33.5,50 L26,50 L26,44 L33.5,44 L33.5,28 L55,28 Z M71.6148884,62.0010475 L38.749,62 L38.75,73 L53.75,73 C61.5580535,73 68.3210632,68.5256356 71.6148884,62.0010475 Z M73.5265114,50.0000811 L38.749,50 L38.749,56 L73.5263613,56.0009167 C73.6736527,55.0220452 73.75,54.0199385 73.75,53 C73.75,51.980408 73.6737046,50.9786359 73.5265114,50.0000811 Z M53.75,33 L38.75,33 L38.749,44 L71.615394,43.999954 C68.3217553,37.4748223 61.558453,33 53.75,33 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

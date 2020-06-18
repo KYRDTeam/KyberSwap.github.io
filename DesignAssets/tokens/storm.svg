@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Storm-gradient-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="16.2247759%" y1="-34.1413667%" x2="75.5677789%" y2="93.9021153%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M42.2582224,1.01566828 C57.0443653,4.70563199 68,18.0715897 68,34.0005519 C68,52.7775198 52.7773177,68 34.0001004,68 C31.711028,68 29.4761468,67.7701926 27.3135203,67.3386766 L55.5240038,27.9292219 L37.2756515,27.9292219 L42.2582224,1.01566828 Z M30.7243485,40.0707781 L25.7417776,66.9843317 C10.9556347,63.294368 -1.07291953e-12,49.9284103 -1.07291953e-12,34.0004516 C-1.07291953e-12,15.2224802 15.2226823,-9.9475983e-14 33.9998996,-9.9475983e-14 C36.288972,-9.9475983e-14 38.5238532,0.229807367 40.6864797,0.661323385 L12.4759962,40.0707781 L30.7243485,40.0707781 Z" id="path-2"></path>
+    </defs>
+    <g id="StormShop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Storm-gradient-logo" transform="translate(-6.000000, -185.000000)">
+            <g id="Storm-gradient-icon" transform="translate(6.000000, 185.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#6B38DF" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-1647.000000, -155.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(1647.000000, 155.000000)">
+                <path d="M15,29.5 C6.99187113,29.5 0.5,23.0081289 0.5,15 C0.5,6.99187113 6.99187113,0.5 15,0.5 C23.0081289,0.5 29.5,6.99187113 29.5,15 C29.5,23.0081289 23.0081289,29.5 15,29.5 Z M15,28.5 C22.4558441,28.5 28.5,22.4558441 28.5,15 C28.5,7.54415588 22.4558441,1.5 15,1.5 C7.54415588,1.5 1.5,7.54415588 1.5,15 C1.5,22.4558441 7.54415588,28.5 15,28.5 Z" id="Oval"></path>
+                <circle id="Oval" cx="15" cy="15" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
