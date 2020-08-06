@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>storm_v2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="27.9667607%" cy="7.24645544%" fx="27.9667607%" fy="7.24645544%" r="109.582164%" id="radialGradient-1">
+            <stop stop-color="#7D41E4" offset="0%"></stop>
+            <stop stop-color="#3A1ED0" offset="100%"></stop>
+        </radialGradient>
+        <polyline id="path-2" points="5.68434189e-14 3.55271368e-15 54.8065601 3.64778791e-15 5.68434189e-14 54.8065601"></polyline>
+        <filter x="-29.2%" y="-25.5%" width="158.4%" height="158.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="storm_v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#FFFFFF" cx="54" cy="54" r="54"></circle>
+        <g id="storm-gradient-icon" fill="url(#radialGradient-1)" fill-rule="nonzero">
+            <g id="path-2-link">
+                <path d="M67.1160003,1.61312021 C90.5998743,7.47365081 108,28.7019366 108,54.0008765 C108,83.8231197 83.8227987,108 54.0001595,108 C50.3645739,108 46.8150567,107.635012 43.3802969,106.949663 L88.1851825,44.358176 L59.2025053,44.358176 L67.1160003,1.61312021 Z M48.7974947,63.641824 L40.8839997,106.38688 C17.4001257,100.526349 -1.70404867e-12,79.2980634 -1.70404867e-12,54.0007172 C-1.70404867e-12,24.1768803 24.1772013,-1.57991267e-13 53.9998405,-1.57991267e-13 C57.6354261,-1.57991267e-13 61.1849433,0.364988171 64.6197031,1.05033714 L19.8148175,63.641824 L48.7974947,63.641824 Z" id="path-2"></path>
+            </g>
+        </g>
+        <g id="Group" transform="translate(0.000000, -0.000000)">
+            <g id="Path-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FA6566" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <path d="M10.336,21.216 L15.646,9.12 L12.91,9.12 L9.94,16.338 L6.97,9.12 L4.234,9.12 L9.544,21.216 L10.336,21.216 Z M25.42,21 L25.42,18.948 L22.018,18.948 L22.414,18.66 C23.206,18.06 23.848,17.451 24.34,16.833 C24.832,16.215 25.078,15.498 25.078,14.682 C25.078,14.178 24.979,13.707 24.781,13.269 C24.583,12.831 24.304,12.453 23.944,12.135 C23.584,11.817 23.158,11.568 22.666,11.388 C22.174,11.208 21.634,11.118 21.046,11.118 C20.41,11.118 19.837,11.22 19.327,11.424 C18.817,11.628 18.385,11.898 18.031,12.234 C17.677,12.57 17.404,12.954 17.212,13.386 C17.02,13.818 16.924,14.256 16.924,14.7 C16.924,14.844 16.933,15.003 16.951,15.177 C16.969,15.351 17.002,15.522 17.05,15.69 L17.05,15.69 L19.444,15.69 C19.396,15.414 19.372,15.162 19.372,14.934 C19.372,14.502 19.51,14.13 19.786,13.818 C20.062,13.506 20.458,13.35 20.974,13.35 C21.478,13.35 21.871,13.506 22.153,13.818 C22.435,14.13 22.576,14.496 22.576,14.916 C22.576,15.192 22.519,15.447 22.405,15.681 C22.291,15.915 22.135,16.14 21.937,16.356 C21.739,16.572 21.505,16.788 21.235,17.004 C20.965,17.22 20.668,17.448 20.344,17.688 L20.344,17.688 L16.618,20.478 L16.618,21 L25.42,21 Z" id="V2" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
