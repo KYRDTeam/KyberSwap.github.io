@@ -1,3 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 89.99 89.99"><defs><style>.cls-1{fill:url(#Безымянный_градиент_3);}.cls-2{fill:#fff;}.cls-3{fill:url(#Безымянный_градиент_3-2);}</style><linearGradient id="Безымянный_градиент_3" x1="18.87" y1="1.12" x2="69.87" y2="69.12" gradientUnits="userSpaceOnUse"><stop offset="0.02" stop-color="#9b23ea"/><stop offset="1" stop-color="#40119e"/></linearGradient><linearGradient id="Безымянный_градиент_3-2" x1="19.75" y1="0.46" x2="70.75" y2="68.46" xlink:href="#Безымянный_градиент_3"/></defs><title>token</title><path class="cls-1" d="M79.59,7.21c-1-.46-2.07-.94-3.23-1.43l-.12,0C70.28,3.24,62.9.65,50.06.11,48.46,0,46.78,0,45,0S41.7,0,40.16.1C27.1.64,19.66,3.33,13.63,5.88h0c-1.16.49-2.24,1-3.22,1.44-1.24.58-2.32,1.13-3.23,1.61V63.08l3.23,2.3,3.22,2.29h0l19,13.55,7.5,5.33L45,90l5.07-3.59,7.29-5.17,18.89-13.4.12-.09,3.23-2.3,3.23-2.3V8.81C81.9,8.33,80.82,7.79,79.59,7.21Z"/><path class="cls-2" d="M66.34,57.22l-10,6.91c0-4.84,0-14.7,0-14.7H33.6v14.7l-9.77-6.91V21.28l9.29-1.77a63.9,63.9,0,0,1,7-.93c1.61-.12,3.22-.2,4.83-.2s3.38.08,5.07.21a64,64,0,0,1,7,.93l9.23,1.77V57.22Z"/><path class="cls-3" d="M50.06,28.18C48.37,28,46.69,28,45,28s-3.22.07-4.83.19c-2.1.16-4.2.41-6.29.78l-.27,0V39.21H56.36V29h0C54.26,28.61,52.16,28.35,50.06,28.18Z"/></svg>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 28 28" style="enable-background:new 0 0 28 28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Page-1">
+	<g id="theabyss_32">
+		
+			<linearGradient id="Rectangle_1_" gradientUnits="userSpaceOnUse" x1="-274.1562" y1="420.1088" x2="-273.2812" y2="419.2338" gradientTransform="matrix(32 0 0 -32 8773 13443.4805)">
+			<stop  offset="0" style="stop-color:#9B1EEA"/>
+			<stop  offset="1" style="stop-color:#5013AC"/>
+		</linearGradient>
+		<path id="Rectangle" class="st0" d="M14,0L14,0c7.7,0,14,6.3,14,14l0,0c0,7.7-6.3,14-14,14l0,0C6.3,28,0,21.7,0,14l0,0
+			C0,6.3,6.3,0,14,0z"/>
+		<path id="Path" class="st1" d="M15,11.1c-0.3,0-0.7,0-1,0c-0.3,0-0.6,0-0.9,0c-0.4,0-0.8,0.1-1.2,0.2h-0.1v2h4.4v-2
+			C15.8,11.2,15.4,11.1,15,11.1z"/>
+		<path id="Shape" class="st1" d="M20.7,7c-0.2-0.1-0.4-0.2-0.6-0.3h0c-1.2-0.5-2.6-1-5-1.1c-0.3,0-0.6,0-1,0c-0.3,0-0.6,0-0.9,0
+			C10.5,5.7,9.1,6.2,8,6.7C7.7,6.8,7.5,6.9,7.3,7C7.1,7.1,6.9,7.3,6.7,7.3v10.6l1.2,0.9l3.7,2.6l1.4,1l0.9,0.7l1-0.7l1.4-1l3.6-2.6
+			l0,0l1.2-0.9V7.3C21.1,7.2,20.9,7.1,20.7,7z M18.1,16.7l-1.9,1.3c0-0.9,0-2.9,0-2.9h-4.4v2.9l-1.9-1.3v-7l1.8-0.3
+			c0.4-0.1,0.9-0.1,1.3-0.2c0.3,0,0.6,0,0.9,0c0.3,0,0.7,0,1,0c0.5,0,0.9,0.1,1.3,0.2l1.8,0.3L18.1,16.7L18.1,16.7z"/>
+	</g>
+</g>
+</svg>
