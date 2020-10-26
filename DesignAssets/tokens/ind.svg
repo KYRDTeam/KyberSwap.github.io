@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>ind</title>
+    <title>ind_28</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
@@ -22,13 +22,13 @@
             <stop stop-color="#F76D15" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="ind" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="ind_28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group" fill="#FFFFFF">
-            <circle id="Oval" cx="54" cy="54" r="54"></circle>
+            <circle id="Oval" cx="14" cy="14" r="14"></circle>
         </g>
-        <g transform="translate(19.000000, 19.000000)" fill-rule="nonzero" id="Path">
-            <polygon fill="url(#linearGradient-1)" points="0 35 0 70 35 70 70 70 70 35 35 35"></polygon>
-            <path d="M70,0 L0,0 C0,19.3301111 15.6722222,35 35,35 C54.3277778,35 70,19.3301111 70,0 Z" fill="url(#linearGradient-2)"></path>
+        <g id="ind" transform="translate(4.925926, 4.925926)" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="0 9.07407407 0 18.1481481 9.07407407 18.1481481 18.1481481 18.1481481 18.1481481 9.07407407 9.07407407 9.07407407"></polygon>
+            <path d="M18.1481481,0 L0,0 C0,5.01151029 4.06316872,9.07407407 9.07407407,9.07407407 C14.0849794,9.07407407 18.1481481,5.01151029 18.1481481,0 Z" id="Path" fill="url(#linearGradient-2)"></path>
         </g>
     </g>
 </svg>
