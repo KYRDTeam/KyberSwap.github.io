@@ -1,24 +1,34 @@
-<svg id="indorse-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1800 1800">
-  <defs>
-    <linearGradient id="linear-gradient" y1="1350" x2="1800" y2="1350" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#9fa1ff"/>
-      <stop offset="0.31" stop-color="#9f9eff"/>
-      <stop offset="0.52" stop-color="#a095fe"/>
-      <stop offset="0.7" stop-color="#a286fc"/>
-      <stop offset="0.87" stop-color="#a471fa"/>
-      <stop offset="1" stop-color="#a659f7"/>
-    </linearGradient>
-    <linearGradient id="linear-gradient-2" y1="450" x2="1800" y2="450" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#f9b300"/>
-      <stop offset="0.4" stop-color="#f9b101"/>
-      <stop offset="0.6" stop-color="#f9a903"/>
-      <stop offset="0.75" stop-color="#f89c07"/>
-      <stop offset="0.87" stop-color="#f88a0c"/>
-      <stop offset="0.98" stop-color="#f77213"/>
-      <stop offset="1" stop-color="#f76d15"/>
-    </linearGradient>
-  </defs>
-  <title>color_1800px</title>
-  <polygon points="0 900 0 1800 900 1800 1800 1800 1800 900 900 900 0 900" fill="url(#linear-gradient)"/>
-  <path d="M1800,0H0C0,497.06,403,900,900,900S1800,497.06,1800,0Z" fill="url(#linear-gradient-2)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ind_28</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#9FA1FF" offset="0%"></stop>
+            <stop stop-color="#9F9EFF" offset="31%"></stop>
+            <stop stop-color="#A095FE" offset="52%"></stop>
+            <stop stop-color="#A286FC" offset="70%"></stop>
+            <stop stop-color="#A471FA" offset="87%"></stop>
+            <stop stop-color="#A659F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F9B300" offset="0%"></stop>
+            <stop stop-color="#F9B101" offset="40%"></stop>
+            <stop stop-color="#F9A903" offset="60%"></stop>
+            <stop stop-color="#F89C07" offset="75%"></stop>
+            <stop stop-color="#F88A0C" offset="87%"></stop>
+            <stop stop-color="#F77213" offset="98%"></stop>
+            <stop stop-color="#F76D15" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ind_28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#FFFFFF">
+            <circle id="Oval" cx="14" cy="14" r="14"></circle>
+        </g>
+        <g id="ind" transform="translate(4.925926, 4.925926)" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="0 9.07407407 0 18.1481481 9.07407407 18.1481481 18.1481481 18.1481481 18.1481481 9.07407407 9.07407407 9.07407407"></polygon>
+            <path d="M18.1481481,0 L0,0 C0,5.01151029 4.06316872,9.07407407 9.07407407,9.07407407 C14.0849794,9.07407407 18.1481481,5.01151029 18.1481481,0 Z" id="Path" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
 </svg>
