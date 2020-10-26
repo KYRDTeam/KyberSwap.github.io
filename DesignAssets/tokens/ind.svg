@@ -1,0 +1,24 @@
+<svg id="indorse-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1800 1800">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1350" x2="1800" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9fa1ff"/>
+      <stop offset="0.31" stop-color="#9f9eff"/>
+      <stop offset="0.52" stop-color="#a095fe"/>
+      <stop offset="0.7" stop-color="#a286fc"/>
+      <stop offset="0.87" stop-color="#a471fa"/>
+      <stop offset="1" stop-color="#a659f7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="450" x2="1800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9b300"/>
+      <stop offset="0.4" stop-color="#f9b101"/>
+      <stop offset="0.6" stop-color="#f9a903"/>
+      <stop offset="0.75" stop-color="#f89c07"/>
+      <stop offset="0.87" stop-color="#f88a0c"/>
+      <stop offset="0.98" stop-color="#f77213"/>
+      <stop offset="1" stop-color="#f76d15"/>
+    </linearGradient>
+  </defs>
+  <title>color_1800px</title>
+  <polygon points="0 900 0 1800 900 1800 1800 1800 1800 900 900 900 0 900" fill="url(#linear-gradient)"/>
+  <path d="M1800,0H0C0,497.06,403,900,900,900S1800,497.06,1800,0Z" fill="url(#linear-gradient-2)"/>
+</svg>
